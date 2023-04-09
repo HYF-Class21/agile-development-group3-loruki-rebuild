@@ -1,18 +1,15 @@
 # User Personas
 
-<!-- some introduction -->
+We would like to draw the attention of the following people:
 
 ---
 
-<!-- a persona -->
+## Developer
 
-## Their Role
-
-- **Bio**:
-- **Needs/Goals**:
-- **Frustrations**:
-- **Scenario 1**:
+- **Bio**: Ash Ketchum is a Web Developer.
+- **Needs/Goals**: He wants to deploy his new web application.
+- **Frustrations**: Many websites do not provide an easy platform interface to
+  work with.
+- **Scenario 1**: Ken made a web application and would like to deploy it.
 
 ---
-
-<!-- more personas ... -->
