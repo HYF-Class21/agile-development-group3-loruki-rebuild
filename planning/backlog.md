@@ -1,30 +1,19 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+Here are the stories of our websie users.
 
 ## Must-Haves
 
-> these are necessary for basic usability
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user, I would like to see a clear title with logo.
+- [ ] As a user, I would like to see some navigation links to switch between
+      pages.
+- [ ] As a user, I would like to see a small introduction of the page.
+- [ ] As a user, I would like to see a contact form.
+- [ ] As a user, I would like to see a good description of the page.
+- [ ] As a user, I would like to see some images in the page.
+- [ ] As a user, I would like to get more info about the page besides rgw small
+      introdection.
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
-
 ## Could-Haves
-
-> would be really cool ... if there's time
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
