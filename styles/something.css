@@ -303,3 +303,13 @@ h4 {
 .py-2 {
   padding: 1.5rem 0;
 }
+
+/* Footer */
+.fab {
+  color: #fff;
+  margin: 0 10px;
+}
+
+.footer .social a {
+  margin: 0 10px;
+}
