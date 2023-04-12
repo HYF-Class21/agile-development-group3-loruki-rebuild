@@ -40,6 +40,22 @@ img {
   width: 100%;
 }
 
+.navbar {
+  background-color: var(--primary-color);
+  color: #fff;
+  height: 70px;
+}
+
+.navbar ul {
+  display: flex;
+}
+
+.navbar a {
+  color: #fff;
+  padding: 10px;
+  margin: 0 5px;
+}
+
 /* Utilities */
 
 .container {
@@ -330,4 +346,12 @@ h4 {
 
 .py-5 {
   padding: 4rem 0;
+}
+
+.navbar a:hover {
+  border-bottom: 2px #fff solid;
+}
+
+.navbar .flex {
+  justify-content: space-between;
 }
