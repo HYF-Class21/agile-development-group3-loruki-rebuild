@@ -31,11 +31,12 @@ The site needs a clear title that's easy to read at the top of the page.
 
 ### Site Title: HTML
 
-- Header with the web site's title
+- Header with the web site's title which is with "h1"
 
 ### Site Title: CSS
 
-- styling the title to the top left of the page.
+- styling the title to the top left of the page which should be with "class
+  logo"
 
 ---
 
@@ -83,29 +84,29 @@ There should be a clear and small introduction about the webpage.
 
 ---
 
-## Contact form
+## Request demo form
 
 <!-- user story -->
 
-> As a user, I would like to see a contact form.
+> As a user, I would like to see a request demo form.
 
 <!-- detailed description -->
 
-The site needs to have a contact form below the nav links/header.
+The site needs to have a request demo form below the nav links/header.
 
 <!-- acceptance criteria -->
 
-- [ ] _there is a contact form below the nav links/header_
+- [ ] _there is a Request demo form below the nav links/header_
 
 <!-- code you think you will need -->
 
-### Site contact form: HTML
+### Site Request demo form: HTML
 
-- Aside with a `contact` form.
+- Aside with a `Request demo form` form.
 
-### Site contact form: CSS
+### Site Request demo form: CSS
 
-- styling the contact form.
+- styling the Request demo form form.
 
 ## Page description
 
@@ -131,11 +132,12 @@ There should be a clear and small introduction which describes the webpage.
 
 There should be some images in the webpage to make it look better.
 
-- [ ] _There are a few images in the webpage_
+- [ ] \_There are a few images in the webpage first one should be just below the
+      body at left part. second one should be below the aside at right side.
 
 ### Images: HTML
 
--
+- section with "img src" to add images in the webpage
 
 ### Images: CSS
 
@@ -157,5 +159,3 @@ The site needs to have a nav bar in the footer, at the bottom of the page.
 - A footer with nav links and social media links.
 
 ### Extra Info: CSS
-
--
