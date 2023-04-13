@@ -155,7 +155,7 @@ img {
   border: 1px #fff solid;
 }
 
-.btn.hover {
+.btn:hover {
   transform: scale(0.98);
 }
 
@@ -290,7 +290,6 @@ img {
 
 /* Languages */
 .languages .flex {
-  display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
@@ -353,7 +352,7 @@ h4 {
   padding: 4rem 0;
 }
 
-.navbar a:hover {
+.navbar ul a:hover {
   border-bottom: 2px #fff solid;
 }
 
